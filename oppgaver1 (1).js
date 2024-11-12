@@ -55,14 +55,14 @@ score = score * 10;
     Lag en variabel for å lagre et telefon nummer (bruk et fiktift nummer)
 */
 
-let telefon = 48658902;
+let phoneNumber = '48679801';
 
 /*
     Oppgave: F
     Lag en variabel som representerer hvorvidt du er en student eller ikke.
 */
 
-let isStudent = 1;
+let isStudent = true;
 
 /*
     Oppgave: G
@@ -78,4 +78,4 @@ console.log("Hei spiller " + myFirstName + " din score er " + score);
     Set verdien av denne nye variabelen til verdien av variabelen fra oppgave B
 */
 
-let highScore = score
+let highScore = score;
